@@ -1,7 +1,7 @@
 # Quishing (QR Phising Detection)
 ## Overview
 The QR Code URL Classifier is a Python project that lets you detect QR codes using a webcam and classify the URLs embedded in them. By leveraging machine learning, this tool helps you figure out if a URL might be malicious, so you can take action accordingly. The project is split into two main parts: QR code detection and URL classification.
-![Safe URL]([[assets](https://github.com/chakrabortysukalyan/Quishing/tree/master/assets/benign-class-qr.jpeg](https://github.com/chakrabortysukalyan/Quishing/blob/master/assets/benign%20class%20qr.jpeg?raw=true))
+![Safe URL](https://github.com/chakrabortysukalyan/Quishing/blob/master/assets/benign%20class%20qr.jpeg)
 
 
 ##Code Breakdown
